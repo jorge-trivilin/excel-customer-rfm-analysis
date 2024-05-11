@@ -19,8 +19,6 @@ Through this project, I seek to demonstrate that while tools like Python provide
 
 ---
 
-This description not only showcases your knowledge of advanced analytical tools but also emphasizes your curiosity and methodical approach to understanding the foundational aspects of data analysis techniques.
-
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ### About The Creator
