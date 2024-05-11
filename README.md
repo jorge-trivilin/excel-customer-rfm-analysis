@@ -1,7 +1,25 @@
 # Excel Customer RFM Analysis Project
 
-## Overview
-*This Excel-based RFM Analysis Project aims to segment customers based on their purchasing behavior using the Recency, Frequency, and Monetary (RFM) model. By calculating scores for each of these aspects and summing them, we categorize customers into different segments to tailor marketing strategies effectively.*
+## Project Background
+
+I fully recognize the robust capabilities that Python offers for conducting Recency, Frequency, Monetary (RFM) analysis. Python's powerful libraries can automate data handling, enable complex calculations, and utilize machine learning algorithms for sophisticated customer segmentation. 
+
+But i was intrigued to explore the fundamentals of RFM analysis in a more hands-on and straightforward manner. This curiosity led me to undertake an RFM analysis project using Excel. The aim was to manually perform the segmentation process, providing an educational perspective on the basic mechanics of RFM without the aid of advanced programming techniques or machine learning algorithms. Even though this analysis will never work if we are creating a data product for production or when we are dealing with a high volume of data.
+
+## Project Description
+
+This Excel-based RFM Analysis Project is designed as an exploratory exercise to understand the core principles of customer segmentation based on their purchasing behavior. Using only Excel functions, the project focuses on calculating key metrics such as recency, frequency, and monetary values, and then scoring these metrics to segment customers into various categories. 
+
+This manual approach in Excel serves several purposes:
+- **Educational Insight**: It offers a clear view of how each component of RFM contributes to customer segmentation, highlighting the direct impact of different scoring strategies.
+- **Simplicity**: It allows for the manipulation and visualization of data without the need for programming, making it accessible to users who might not be familiar with Python.
+- **Basis for Comparison**: By performing RFM analysis in Excel, I can compare the outcomes with those derived from more complex systems, providing a baseline to appreciate the enhancements that machine learning and automation can bring to such analyses.
+
+Through this project, I seek to demonstrate that while tools like Python provide scalability and depth, foundational data analysis techniques remain powerful when applied correctly, even within the constraints of simpler software like Excel.
+
+---
+
+This description not only showcases your knowledge of advanced analytical tools but also emphasizes your curiosity and methodical approach to understanding the foundational aspects of data analysis techniques.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
