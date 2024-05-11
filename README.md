@@ -1,7 +1,18 @@
 # Excel Customer RFM Analysis Project
 
 ## Overview
-This Excel-based RFM Analysis Project aims to segment customers based on their purchasing behavior using the Recency, Frequency, and Monetary (RFM) model. By calculating scores for each of these aspects and summing them, we categorize customers into different segments to tailor marketing strategies effectively.
+*This Excel-based RFM Analysis Project aims to segment customers based on their purchasing behavior using the Recency, Frequency, and Monetary (RFM) model. By calculating scores for each of these aspects and summing them, we categorize customers into different segments to tailor marketing strategies effectively.*
+
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+
+### About The Creator
+
+*This project was created by Jorge Trivilin.* 
+
+*Connect with Jorge here:*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jorge_Trivilin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jorgetrivilin/)
+[![GitHub](https://img.shields.io/badge/GitHub-jorgetrivilin-lightgrey?style=flat&logo=github)](https://github.com/jorge-trivilin/)
 
 ## Data Description
 The dataset includes the following columns:
