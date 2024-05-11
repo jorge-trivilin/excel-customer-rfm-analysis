@@ -117,5 +117,3 @@ The dataset includes the following columns:
 | 1-0       | Immediate Attention |
 
 ---
-
-This README serves as a comprehensive guide to understanding and implementing RFM analysis using the provided Excel template. It includes descriptions of data fields, formulas for each metric calculation, and a segment reference table to categorize customers based on their RFM scores.
